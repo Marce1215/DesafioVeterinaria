@@ -1,0 +1,1 @@
+{"nombre":"marcelo","edad":"25","tipo":"solo","color":"azul","enfermedad":"flaco"}
